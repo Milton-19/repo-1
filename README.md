@@ -1,4 +1,4 @@
 # repo-1
-directly creating new repo in github.
+Directly creating first repo in github.
 <br>
 Author - Akanksha Patil
